@@ -1,4 +1,4 @@
-/* Facorial no
+/* Find Facorial of a no
  * 5! = 5*4*3*2*1
  * Recursion problem
  */
