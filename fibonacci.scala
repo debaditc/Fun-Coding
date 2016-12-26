@@ -7,10 +7,10 @@ object fibonacci {
   
   def main (args : Array[String])
   {
-    //println("Enter no : ")
-    //val no = Console.readInt()
+    println("Enter no : ")
+    val no = Console.readInt()
     
-    var a = fibonacci(10)
+    var a = fibonacci(no)
     println("Sum of fibonacci series - " +a)
     
   }
