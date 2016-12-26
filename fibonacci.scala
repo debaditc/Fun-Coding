@@ -1,5 +1,5 @@
-/* Fibonacci sequence
- * 1,1,2,3,5,8,13.....
+/* Sum of Fibonacci sequence
+ * fib(6) = 0+1+1+2+3+5 = 12
  * Recursion problem
  */
 import scala.collection.mutable.ArrayBuffer
