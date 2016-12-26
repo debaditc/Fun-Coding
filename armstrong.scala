@@ -1,4 +1,4 @@
-/* Find Armstring no 
+/* Find Armstring no in a given range
  * 153 - 1^3 + 5^3 + 3^3 = 153 
  */
 
