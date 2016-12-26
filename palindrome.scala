@@ -1,5 +1,5 @@
 /* Find palidromic no in given range without reverse command
- * 121 , 222 ,111, 11 ..etc 
+ * 11,22,...111,121...949,959,...1331...etc
  */
 import scala.collection.mutable.ArrayBuffer
 
