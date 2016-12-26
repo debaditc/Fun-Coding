@@ -1,3 +1,5 @@
+// Binary Tree traversal - Inorder / Preorder / Postorder
+
 trait Tree[+A] {
 
   import scala.annotation.tailrec
