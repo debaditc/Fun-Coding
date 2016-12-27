@@ -6,6 +6,7 @@
  * 14641  --- 4
  * Basic concept
  * pascal(2,4) - means 2nd column of 4th row which is "6"
+ * Recursive problem
  */
 import scala.collection.mutable.ArrayBuffer
 
