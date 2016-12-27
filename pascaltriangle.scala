@@ -6,7 +6,6 @@
  * 14641  --- 4
  * Basic concept
  * pascal(2,4) - means 2nd column of 4th row which is "6"
- * Recursive problem
  */
 import scala.collection.mutable.ArrayBuffer
 
@@ -14,13 +13,15 @@ object pascaltriangle {
   
  def main (args : Array[String])
  {
-   for (i <- 0 to 5)
+   println("Enter the range - ")
+   val range = Console.readInt()
+   for (i <- 0 to range)
    {
      for (j <- 0 to i)
      {
        print(pascal(j,i))
      }
-     println("\n")
+     print("\n")
    }
  }
  
